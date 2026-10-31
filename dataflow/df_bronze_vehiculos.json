@@ -32,7 +32,7 @@
 			"sinks": [
 				{
 					"dataset": {
-						"referenceName": "sw_bronze_vehiculos_sql",
+						"referenceName": "dw_bronze_vehiculos_sql",
 						"type": "DatasetReference"
 					},
 					"name": "sink1"
